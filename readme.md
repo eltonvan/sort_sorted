@@ -6,7 +6,7 @@ sort the strings by the number of vowels they contain using the
 sort() method with a custom function
 print the sorted list of strings.
 
-# Exercise (sort by second element):
+## Exercise (sort by second element):
 Write a Python program that sorts a list of tuples based on 
 the second element of each tuple.
 The program should take a list of tuples as input from the user,
